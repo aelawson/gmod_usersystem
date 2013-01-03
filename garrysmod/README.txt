@@ -1,0 +1,1 @@
+This directory contains the gamemodes, plugins, scripts, and other modifications for the game Garry's Mod.
